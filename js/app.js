@@ -29,7 +29,7 @@ function renderSidebar(data) {
 
       /* Route Masters EX correctly */
       if (item === "Pokémon Masters EX") {
-        link.href = "/masters-ex.html";
+        link.href = "masters-ex.html";
       } else {
         link.href = "#";
       }
@@ -211,6 +211,7 @@ if (toggleBtn) {
     toggleBtn.textContent = saved === "light" ? "🌞" : "🌙";
   }
 }
+
 
 
 
