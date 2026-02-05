@@ -2,7 +2,7 @@
   {
     "id": "dex-polteageist",
     "title": "Polteageist",
-    "url": "/pokedex/polteageist.html",
+    "url": "pokedex/polteageist.html",
     "snippet": "Polteageist - The Black Tea Pokémon. Found in antique teapots. Gen8 Scarlet & Violet entry.",
     "tags": ["ghost","dex","polteageist","gen8"]
   },
@@ -42,3 +42,4 @@
     "tags": ["pokedex","scarlet","violet","gen9"]
   }
 ]
+
