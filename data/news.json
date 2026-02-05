@@ -1,0 +1,70 @@
+{
+  "generated": "2025-01-01",
+  "page": "homepage",
+
+  "articles": [
+    {
+      "id": "news-2025-01-10-za",
+      "date": "Thursday, January 10th 2025",
+      "category": "Games Department",
+      "title": "Pokémon Legends Z-A Update",
+      "summary": "New information has been revealed for Pokémon Legends Z-A.",
+      "content": [
+        "A new patch is live for Pokémon Legends: Z-A. This patch brings the game up to Version 2.0.1 and features a variety of small bug fixes. The update is required to go online.",
+        "This update includes several updates and bug fixes",
+        "At Berry Stalls, it allows you to buy multiple of a Berry at once",
+        "Adds a new Berry Shop to Nouveau Café No. 3",
+        "Increases the amount of Mega Shards holdable from 999 to 9999",
+        "It also includes the following bug fixes",
+        "In Hyperspace Lumiose, it fixes an issue where the Pokémon will move in a direction other than target",
+        "Fixes an issue where the weather may not change",
+        "Fixes an issue where the Shiny version of a Mega Evolved Pokémon caught before getting Mega Dimension won't display in the Mega Evolution Pokédex",
+        "Fixes an issue where an image from an unrelated scene may display during a mission",
+        "Fixes an issue where Side Mission 188 can't be cleared if you have too many Survey Points"
+      ],
+      "media": {
+        "type": "image",
+        "src": "/images/news/legends-za.avif",
+        "alt": "Pokémon Legends Z-A artwork"
+      },
+      "tags": ["Legends Z-A", "Nintendo Switch", "Pokémon"]
+    },
+
+    {
+      "id": "news-2025-01-08-masters",
+      "date": "Wednesday, January 8th 2025",
+      "category": "Pokémon Masters EX",
+      "title": "Pokémon Masters EX – Holiday Event Begins",
+      "summary": "A new holiday-themed event begins in Pokémon Masters EX.",
+      "content": [
+        "Seasonal Sync Pairs are now available.",
+        "Players can earn exclusive event rewards."
+      ],
+      "media": {
+        "type": "image",
+        "src": "/images/news/masters-holiday.avif",
+        "alt": "Pokémon Masters EX Holiday Event"
+      },
+      "tags": ["Masters EX", "Mobile", "Events"]
+    },
+
+    {
+      "id": "news-2025-01-07-horizons",
+      "date": "Tuesday, January 7th 2025",
+      "category": "Anime",
+      "title": "Pokémon Horizons – New Episode Summary",
+      "summary": "The latest episode of Pokémon Horizons has aired in Japan.",
+      "content": [
+        "Liko and Roy face new mysteries.",
+        "A new Pokémon appears for the first time."
+      ],
+      "media": {
+        "type": "image",
+        "src": "/images/news/horizons-episode.avif",
+        "alt": "Pokémon Horizons Episode"
+      },
+      "tags": ["Anime", "Horizons"]
+    }
+  ]
+}
+
