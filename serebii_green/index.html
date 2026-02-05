@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Serebii Green Prototype</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="/css/serebii.css">
+<script src="/js/app.js" defer></script>
+<script src="/js/search.js" defer></script>
+</head>
+
+<body>
+
+<header class="top-header">
+
+  <!-- HERO BANNER -->
+  <div class="hero-banner">
+    <img 
+      src="/images/avif_banner.avif" 
+      alt="Serebii.net Banner"
+      width="1500"
+      height="180"
+      loading="lazy"
+      decoding="async"
+    >
+  </div>
+
+  <!-- QUICK LINKS BAR -->
+  <nav class="quick-links">
+  <button id="theme-toggle" aria-label="Toggle light/dark mode">
+  🌙
+  </button>
+
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Forums</a></li>
+      <li><a href="#">Contact</a></li>
+      <li><a href="#">Discord</a></li>
+      <li><a href="#">Pokédex Hub</a></li>
+      <li><a href="#">GO Pokédex</a></li>
+      <li><a href="#">Scarlet & Violet Pokédex</a></li>
+      <li><a href="#">Pokéarth</a></li>
+    </ul>
+
+    <!-- SEARCH -->
+    <div class="search-form" role="search">
+  <input
+    id="search"
+    type="search"
+    placeholder="Search"
+    aria-label="Search site"
+  />
+
+  <button type="button">Search</button>
+
+  <div id="search-results" class="site-search-results"></div>
+</div>
+
+  </nav>
+</header>
+
+<div class="layout">
+  <!-- LEFT SIDEBAR -->
+  <aside id="sidebar" class="sidebar left"></aside>
+
+  <!-- MAIN CONTENT -->
+  <main id="news-feed"></main>
+
+  <!-- RIGHT SIDEBAR -->
+  <aside id="rightbar" class="sidebar right"></aside>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
