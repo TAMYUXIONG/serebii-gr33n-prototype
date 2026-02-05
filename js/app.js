@@ -1,10 +1,10 @@
 async function loadLayoutData() {
-  const res = await fetch('/data/index.json', { cache: 'no-cache' });
+  const res = await fetch('data/index.json', { cache: 'no-cache' });
   return res.json();
 }
 
 async function loadNewsData() {
-  const res = await fetch('/data/news.json', { cache: 'no-cache' });
+  const res = await fetch('data/news.json', { cache: 'no-cache' });
   return res.json();
 }
 
@@ -211,6 +211,7 @@ if (toggleBtn) {
     toggleBtn.textContent = saved === "light" ? "🌞" : "🌙";
   }
 }
+
 
 
 
