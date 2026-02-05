@@ -24,7 +24,7 @@
       ],
       "media": {
         "type": "image",
-        "src": "/images/news/legends-za.avif",
+        "src": "images/news/legends-za.avif",
         "alt": "Pokémon Legends Z-A artwork"
       },
       "tags": ["Legends Z-A", "Nintendo Switch", "Pokémon"]
@@ -42,7 +42,7 @@
       ],
       "media": {
         "type": "image",
-        "src": "/images/news/masters-holiday.avif",
+        "src": "images/news/masters-holiday.avif",
         "alt": "Pokémon Masters EX Holiday Event"
       },
       "tags": ["Masters EX", "Mobile", "Events"]
@@ -60,11 +60,12 @@
       ],
       "media": {
         "type": "image",
-        "src": "/images/news/horizons-episode.avif",
+        "src": "images/news/horizons-episode.avif",
         "alt": "Pokémon Horizons Episode"
       },
       "tags": ["Anime", "Horizons"]
     }
   ]
 }
+
 
