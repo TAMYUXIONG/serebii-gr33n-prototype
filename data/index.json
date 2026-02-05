@@ -143,7 +143,7 @@
   "rightSidebar": {
     "pokemonOfTheWeek": {
       "title": "Pokémon of the Week",
-      "image": "/images/sidebar/potw.avif",
+      "image": "images/sidebar/potw.avif",
       "link": "potw.html"
     },
 
@@ -152,7 +152,7 @@
       "items": [
         {
           "title": "Shock and Horrors! Mochi Mayhem on the Ship",
-          "image": "/images/sidebar/next-japan.avif"
+          "image": "images/sidebar/next-japan.avif"
         }
       ]
     },
@@ -162,7 +162,7 @@
       "items": [
         {
           "title": "Where the Adventure Leads",
-          "image": "/images/sidebar/recent-usa.avif"
+          "image": "images/sidebar/recent-usa.avif"
         }
       ]
     },
@@ -171,43 +171,44 @@
   "items": [
     {
       "title": "Eyes to the Skies Once Again, Part 1",
-      "image": "/images/sidebar/next-usa.avif"
+      "image": "images/sidebar/next-usa.avif"
     }
   ]
 },
   "supportUs": {
     "title": "Support Us",
-    "image": "/images/icons/patreon.avif",
+    "image": "images/icons/patreon.avif",
     "link": "https://www.patreon.com/serebiinet"
   },
 
     "socialMedia": [
   {
     "name": "Facebook",
-    "icon": "/images/icons/facebook.avif",
+    "icon": "images/icons/facebook.avif",
     "link": "https://www.facebook.com/SerebiiNetPage"
   },
   {
     "name": "Twitter",
-    "icon": "/images/icons/twitter.avif",
+    "icon": "images/icons/twitter.avif",
     "link": "https://www.twitter.com/SerebiiNet"
   },
   {
     "name": "YouTube",
-    "icon": "/images/icons/youtube.avif",
+    "icon": "images/icons/youtube.avif",
     "link": "https://www.youtube.com/serebiispp"
   },
   {
     "name": "Instagram",
-    "icon": "/images/icons/instagram.avif",
+    "icon": "images/icons/instagram.avif",
     "link": "https://www.instagram.com/serebii"
   },
   {
     "name": "Blue Sky",
-    "icon": "/images/icons/bluesky.avif",
+    "icon": "images/icons/bluesky.avif",
     "link": "https://bsky.app/profile/serebii.bsky.social"
   }
 ]
 
   }
+
 }
